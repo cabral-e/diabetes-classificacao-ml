@@ -1,0 +1,16 @@
+# Dados
+*.csv
+*.zip
+diabetes_binary_health_indicators_BRFSS2015.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# Sistema
+.DS_Store
+Thumbs.db
